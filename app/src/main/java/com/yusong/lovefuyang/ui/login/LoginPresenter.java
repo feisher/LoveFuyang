@@ -23,7 +23,6 @@ public class LoginPresenter extends BasePresenterImpl<LoginContract.View> implem
             }
             @Override
             protected void onFailure() {
-
             }
 
             @Override
